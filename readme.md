@@ -29,11 +29,7 @@ En esta experiencia abórdatenos los siguientes procesos:
 
 Para el desarrollo del código en Arduino he usado una versión con un __ATMega 644p__ (con 4k de SRAM). Las variables globales y locales usan casi 2k de memoria dinámica, por lo que _NO_ es recomendable usar un Arduino Uno, Nano o Minipro. Pero si es posible desarrollar esta experiencia en un __Arduino Leonardo, Micro, Mega o DUE.__
 
-![Atmega644p](https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/Li-ion.jpg)
+![Atmega644p](https://raw.githubusercontent.com/sandroormeno/NeuraNetwork-Arduino-Keras-TensorFlow/master/image/arduino_atmega644p.jpg)
 
 
 
-
-```python
-
-```
